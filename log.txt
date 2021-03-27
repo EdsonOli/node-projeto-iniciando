@@ -1,0 +1,16 @@
+{"freemem":"10366 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10367 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10363 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10349 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10349 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10349 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10351 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10350 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10356 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10357 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10350 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10351 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10352 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10350 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10350 MB","total":"16243 MB","usage":"63%"}
+{"freemem":"10356 MB","total":"16243 MB","usage":"63%"}
